@@ -1,8 +1,8 @@
 {
-    "name": "@elevenlabs/elevenlabs-js",
-    "version": "2.42.0",
+    "name": "@conversales/conversales-js",
+    "version": "1.0.0",
     "private": false,
-    "repository": "github:elevenlabs/elevenlabs-js",
+    "repository": "github:conversales/conversales-js",
     "license": "MIT",
     "main": "./index.js",
     "types": "./index.d.ts",
